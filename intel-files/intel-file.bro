@@ -2,6 +2,6 @@
 @load frameworks/intel/do_notice
 
 redef Intel::read_files += {
-        "/usr/local/bro/share/bro/site/intel-files/intel-file.txt",
+        "/usr/local/bro/share/bro/site/intel-files/goon-intel.txt",
 };
 
