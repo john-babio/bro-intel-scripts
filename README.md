@@ -15,4 +15,4 @@ cd bro-intel-scripts <BR>
 mv intel-files \<prefix>/share/bro/site/ <BR>
 echo "@load intel-files/intel-file.bro" >> local.bro <BR>
 
-<H3>Be sure to remove the \<TAB> from the *-intel.txt and replace it with an actual tab with the tab key.<H3>
+<H3>Be sure to remove the \<TAB> from the *-intel.txt and replace it with an actual tab.<H3>
