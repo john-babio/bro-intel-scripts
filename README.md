@@ -14,5 +14,5 @@ Info retrieved from http://www.malwaresigs.com/category/exploit-kit-signatures/
 git clone https://github.com/3vi1john/bro-intel-scripts.git <BR>
 cd bro-intel-scripts <BR>
 mv intel-files \<prefix>/share/bro/site/ <BR>
-echo "@load intel-files/intel-file.bro" >> local.bro <BR>
+echo "@load intel-files/intel-file" >> local.bro <BR>
 
