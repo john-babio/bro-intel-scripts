@@ -1,4 +1,0 @@
-#fields<TAB>indicator<TAB>indicator_type<TAB>meta.source<TAB>meta.do_notice<TAB>meta.desc
-173.237.187.203<TAB>Intel::ADDR<TAB>goon-ip1<TAB>T<TAB>IP Address used in cookie bomb redirect
-192.185.32.90<TAB>Intel::ADDR<TAB>goon-ip2<TAB>T<TAB>IP Address used in landing
-vinnypedulla.com<TAB>Intel::DOMAIN<TAB>goon-domain<TAB>T<TAB>Domain name used in landing and payload

@@ -1,0 +1,4 @@
+#fields indicator indicator_type  meta.source meta.do_notice  meta.desc
+173.237.187.203 Intel::ADDR goon-ip1  T  IP Address used in cookie bomb redirect
+192.185.32.90 Intel::ADDR goon-ip2  T IP Address used in landing
+vinnypedulla.com  Intel::DOMAIN goon-domain T Domain name used in landing and payload
