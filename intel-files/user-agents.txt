@@ -1,0 +1,2 @@
+#fields	indicator	indicator_type	meta.source	meta.desc
+Microsoft WinRM Client	Intel::SOFTWARE	winrm	Windows Remote Management user agent(Powershell,WMI)
